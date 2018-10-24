@@ -1,1 +1,1 @@
-# CG-Poyecto-Final
+# Proyecto Final de Computación Gráfica 
